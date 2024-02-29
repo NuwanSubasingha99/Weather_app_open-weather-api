@@ -22,7 +22,7 @@ This project is a JavaScript-based weather application that utilizes the OpenWea
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/NuwanSubasingha99/Weather_app_open-weather-api.git
    ```
 
 2. **Create a free OpenWeatherMap API key:**
@@ -37,7 +37,7 @@ This project is a JavaScript-based weather application that utilizes the OpenWea
 
 4. **Update API key:**
 
-   - Open the `index.html` file and locate the placeholder for the API key in the JavaScript code.
+   - Open the `index.js` file and locate the placeholder for the API key in the JavaScript code.
    - Replace it with your actual OpenWeatherMap API key.
 
 5. **Run the application:**
